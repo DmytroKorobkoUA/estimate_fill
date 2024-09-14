@@ -6,6 +6,7 @@ Look at the examples below, which show how you can select a region and in what w
 Cases with results:
 
 'o' - output: amount of oil that can be stored in the reserves formed between the ground levels
+
 'i' - input: different levels of the ground
 
 Case 1:
